@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/source/functions/functions.iml" filepath="$PROJECT_DIR$/source/functions/functions.iml" group="library/functions" />
+      <module fileurl="file://$PROJECT_DIR$/source/serializers/serializers.iml" filepath="$PROJECT_DIR$/source/serializers/serializers.iml" group="serializers" />
+      <module fileurl="file://$PROJECT_DIR$/source/serializers-json/serializers-json.iml" filepath="$PROJECT_DIR$/source/serializers-json/serializers-json.iml" group="serializers" />
+      <module fileurl="file://$PROJECT_DIR$/source/serializers-separatedValues/serializers-separatedValues.iml" filepath="$PROJECT_DIR$/source/serializers-separatedValues/serializers-separatedValues.iml" group="serializers" />
+      <module fileurl="file://$PROJECT_DIR$/source/serializers-xml/serializers-xml.iml" filepath="$PROJECT_DIR$/source/serializers-xml/serializers-xml.iml" group="serializers" />
+      <module fileurl="file://$PROJECT_DIR$/source/string/string.iml" filepath="$PROJECT_DIR$/source/string/string.iml" group="library/string" />
+      <module fileurl="file://$PROJECT_DIR$/source/tuples/tuples.iml" filepath="$PROJECT_DIR$/source/tuples/tuples.iml" group="library/tuples" />
+    </modules>
+  </component>
+</project>
